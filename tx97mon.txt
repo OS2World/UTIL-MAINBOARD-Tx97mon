@@ -1,0 +1,20 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+        Archive Filename: tx97mon.zip
+       Short Description: ASUS TX97 Temp. etc Monitor 
+        Long Description: (none)
+      Proposed directory
+           for placement: /pub/os2/util/system
+               Your name:  Andrew May
+           Email address: acmay@ucsd.edu
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+      Would you like the
+   contact email address
+    included in listings? yes
+Operating System/Version: 
+ Additional requirements: ASUS tx97 MB and xf86sup.sys
+                Replaces: (none)
+
+
